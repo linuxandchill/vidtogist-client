@@ -1,0 +1,49 @@
+{
+  "name": "crwn-clothing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.656.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "codemirror": "^5.52.2",
+    "firebase": "6.0.2",
+    "netlify-cli": "^2.46.0",
+    "node-sass": "^4.13.1",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0",
+    "react-codemirror": "^1.0.0",
+    "react-dom": "^16.8.6",
+    "react-hook-form": "^5.5.0",
+    "react-player": "^1.15.3",
+    "react-router-dom": "5.0.0",
+    "tesseract.js": "^2.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "3.0.0"
+  },
+  "resolutions": {
+    "babel-jest": "24.7.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
