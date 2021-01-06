@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "aws-sdk": "^2.656.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "codemirror": "^5.52.2",
     "firebase": "6.0.2",
